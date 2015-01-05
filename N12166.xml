@@ -113,15 +113,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015353_0000_0F98D6FF2E1F8E60"/>
-            <pb facs="tcp:015353_0001_0F98D6FFC1DE1E70" rendition="simple:additions"/>
+            <pb facs="unknown:015353_0000_0F98D6FF2E1F8E60"/>
+            <pb facs="unknown:015353_0001_0F98D6FFC1DE1E70"
+                rendition="simple:additions"/>
             <p>A TREATY AND CONVENTION, FOR THE Sick, Wounded, and Priſoners of War, OF THE LAND FORCES of His Majeſty The KING of GREAT-BRITAIN, AND OF His Moſt CHRISTIAN MAJESTY.</p>
             <p>PHILADELPHIA: PRINTED BY JOHN DUNLAP. MDCCLXXVII</p>
          </div>
       </front>
       <body>
          <div type="treaty">
-            <pb facs="tcp:015353_0002_0F98D700864ECEA0"/>
+            <pb facs="unknown:015353_0002_0F98D700864ECEA0"/>
             <head>A TREATY AND CONVENTION, &amp;c.</head>
             <p>WE, HENRY SEYMOUR CONWAY, Major General of His Majeſty's Forces, Colo<g ref="char:EOLhyphen"/>nel of a Regiment of Horſe, and Groom of His Majeſty's, Bed-chamber.</p>
             <p>IN the name of His Majeſty, the King of Great-Britain, by virtue of the full powers given to Us,</p>
@@ -129,7 +130,7 @@
             <div n="1" type="article">
                <head>ART. I.</head>
                <p>ALL priſoners of war, of what quality, ſort or condition ſoever, without any exception, made during the preſent war between the land forces of the two powers, in what country ſoever it may be, ſhall be exchanged, or ranſomed within the
-<pb n="4" facs="tcp:015353_0003_0F98D7014238A250"/>
+<pb n="4" facs="unknown:015353_0003_0F98D7014238A250"/>
 ſpace of one month, to commence from the day of ſigning the preſent cartel, as is more fully ex<g ref="char:EOLhyphen"/>plained in the 24th article. And the Generals commanding the belligerant or auxiliary armies, in what part of the world ſoever it may be, ſhall agree upon a place where the firſt exchange or ranſom ſhall be made, of the priſoners to be on each ſide reciprocally delivered.</p>
             </div>
             <div n="2" type="article">
@@ -139,7 +140,7 @@
             <div n="3" type="article">
                <head>ART. III.</head>
                <p>A REGISTER book ſhall be kept of the priſoners made by the belligerant and auxiliary armies, in which the numbers ſent back on each ſide in every month ſhall be ſpecified, in order that upon the firſt day of every ſubſequent month, there may be tranſmitted on each ſide, a liſt of thoſe who ſhall have been received and returned, in order that within eight days afterwards, the exceeding num<g ref="char:EOLhyphen"/>bers which one ſide may owe to the other may be exactly and without difficulty paid. The advance money which ſhall have been made to the priſon<g ref="char:EOLhyphen"/>ers,
-<pb n="5" facs="tcp:015353_0004_0F98D702021470B0"/>
+<pb n="5" facs="unknown:015353_0004_0F98D702021470B0"/>
 ſhall alſo be then reckoned, that it may be re-imburſed at the ſame time, and all accounts ſettled and diſcharged without being carried to the next month. And upon the firſt exchange or ran<g ref="char:EOLhyphen"/>ſom of priſoners on each ſide, the advances which may have been made to them, ſhall be liquidated according to true liſts which ſhall be produced.</p>
             </div>
             <div n="4" type="article">
@@ -172,7 +173,7 @@
                      </row>
                      <row>
                         <cell>
-                           <pb n="6" facs="tcp:015353_0005_0F98D702C2146110"/>Lieutenant-General</cell>
+                           <pb n="6" facs="unknown:015353_0005_0F98D702C2146110"/>Lieutenant-General</cell>
                         <cell>5,000</cell>
                      </row>
                      <row>
@@ -284,7 +285,7 @@
                      </row>
                      <row>
                         <cell>
-                           <pb n="7" facs="tcp:015353_0006_0F98D7038189C0C8"/>Adjutant of Horſe-Guards</cell>
+                           <pb n="7" facs="unknown:015353_0006_0F98D7038189C0C8"/>Adjutant of Horſe-Guards</cell>
                         <cell>150</cell>
                      </row>
                      <row>
@@ -369,7 +370,7 @@
                      </row>
                      <row>
                         <cell>
-                           <pb n="8" facs="tcp:015353_0007_0F98D70446207758"/>Adjutant</cell>
+                           <pb n="8" facs="unknown:015353_0007_0F98D70446207758"/>Adjutant</cell>
                         <cell>30</cell>
                      </row>
                      <row>
@@ -465,7 +466,7 @@
                   </table>
                </p>
                <p>
-                  <pb n="9" facs="tcp:015353_0008_0F98D705B7C12D98"/>The Commiſſaries and other officers, as alſo the Cartwrights, Wheelwrights, Harneſs-makers, Fire-workers, Smiths and Farriers, ſhall pay one month of their pay.</p>
+                  <pb n="9" facs="unknown:015353_0008_0F98D705B7C12D98"/>The Commiſſaries and other officers, as alſo the Cartwrights, Wheelwrights, Harneſs-makers, Fire-workers, Smiths and Farriers, ſhall pay one month of their pay.</p>
             </div>
             <div n="13" type="article">
                <head>ART. XIII. Royal Regiment of ARTILLERY.</head>
@@ -509,7 +510,7 @@
             <div n="16" type="article">
                <head>ART. XVI. Militia, Independent Troops and Companies, &amp;c.</head>
                <p>All Militia, or Provincial regiments, as like<g ref="char:EOLhyphen"/>wiſe all free or independent troops or companies, whether of Horſe, Dragoons or Foot, ſhall be treated and pay ranſom, as well officers as private men, according to their ranks, in the ſame man<g ref="char:EOLhyphen"/>ner
-<pb n="10" facs="tcp:015353_0009_0F98D705CAAE6BB8"/>
+<pb n="10" facs="unknown:015353_0009_0F98D705CAAE6BB8"/>
 as the regular troops of the ſame kind and denomination reſpectively.</p>
             </div>
             <div n="17" type="article">
@@ -525,7 +526,7 @@ as the regular troops of the ſame kind and denomination reſpectively.</p>
                <p>ALL other officers who may have been omitted in this cartel, ſhall be releaſed as above-mention<g ref="char:EOLhyphen"/>ed, paying one month of their appointments; and if any diſputes relating to the qualities or appoint<g ref="char:EOLhyphen"/>ments of ony officers made priſoners, ſhould ariſe, they ſhall be determined on both ſides by a certi<g ref="char:EOLhyphen"/>ficate from the General of the army, Commandant of the province, or Governor of the neareſt place.</p>
             </div>
             <div n="20" type="article">
-               <pb n="11" facs="tcp:015353_0010_0F98D7069220F208"/>
+               <pb n="11" facs="unknown:015353_0010_0F98D7069220F208"/>
                <head>ART. XX.</head>
                <p>NO reduced officers ſhall pay more than one month of the appointments they enjoy.</p>
             </div>
@@ -540,7 +541,7 @@ as the regular troops of the ſame kind and denomination reſpectively.</p>
             <div n="23" type="article">
                <head>ART XXIII.</head>
                <p>THE footmen made priſoners ſhall be returned on each ſide without any difficulty. Thoſe who ſhall deſert without taking any thing or robbing in the army they leave, may enjoy ſuch paſſport as ſhall be given them. With regard to thieves, what they ſteal is always to be reſtored, without their being ſent back, but it ſhall be left to the
-<pb n="12" facs="tcp:015353_0011_0F98D70741DBD098"/>
+<pb n="12" facs="unknown:015353_0011_0F98D70741DBD098"/>
 reſpective Generals to do it if they think fit in caſes of murder or aſſaſſination.</p>
                <p>AS to robberies committed by ſoldiers who de<g ref="char:EOLhyphen"/>ſert, what is ſtolen ſhall be reſtored without its being required under any pretence whatever that the deſerters ſhall be returned; each ſide leaving it to the will of the reſpective Generals to return them or not, when they may have committed murders or other crimes.</p>
                <p>ALL deſerters, ſervants, or others, who ſhall go over from one ſide to the other, ſhall be ſtop<g ref="char:EOLhyphen"/>ped at the firſt poſts, where the officer commanding ſhall be careful to have them ſearched, and cauſe an account to be taken in writing of the effects they have with them, not permitting them to ſell or give any thing away, after which he ſhall cauſe them to be conducted to his General, where the ſaid deſerters, ſervants or others, ſhall be detained during three days, in order that if they ſhould be found to have robbed, there may on each ſide be time for reclaiming them.</p>
@@ -548,7 +549,7 @@ reſpective Generals to do it if they think fit in caſes of murder or aſſaſ�
             <div n="24" type="article">
                <head>ART. XXIV.</head>
                <p>THE exchanges and ranſoms of priſoners, as well the firſt as the ſubſequent, ſhall be made man for man, and officer for officer, of equal poſts, till there ſhall be no more of the like rank remain<g ref="char:EOLhyphen"/>ing in the armies or priſons, and after all the ſaid exchanges ſhall have been made of the officers that ſhall be found, officer for officer, and of troopers, dragoons, and ſoldiers, for as many men of the like ſort; if it then be found that one of the two parties hath ſtill remaining more officers than ſoldiers, or more ſoldiers than officers, it ſhall be allowed to give officers for troopers, dragoons, or ſoldiers, according to the tarif inſerted in the
-<pb n="13" facs="tcp:015353_0012_0F98D708025CD7D8"/>
+<pb n="13" facs="unknown:015353_0012_0F98D708025CD7D8"/>
 preſent cartel; and if after all the exchanges ſhall have been made in the above manner, one of the two parties find they have ſtill priſoners remaining, whom they may not have been able to have ex<g ref="char:EOLhyphen"/>changed, the other party may have them again, paying for the ranſoms, and to this effect an ac<g ref="char:EOLhyphen"/>count ſhall be drawn up and delivered on each ſide, of the numbers and qualities of the priſoners which ſhall have been made, as well in battles and rencounters, as in the cities, forts and places which ſhall have been taken.</p>
             </div>
             <div n="25" type="article">
@@ -556,7 +557,7 @@ preſent cartel; and if after all the exchanges ſhall have been made in the abo
                <p>THERE ſhall be given to each priſoner of war a ration of bread, ſuch as the ſaid troops receive, and three kreutzers and three fifths of a kreutzer, making one penny and twenty-three fortieths of a penny Engliſh, or three ſols French every day. It ſhall be reſpectively allowed to ſend them ſuc<g ref="char:EOLhyphen"/>cours, and each General commanding the armies ſhall have liberty to cauſe an Officer or Commiſ<g ref="char:EOLhyphen"/>ſary with a paſſport to be ſtationed in the places where the ſaid priſoners ſhall be kept, in order to have the care of the ſuccours that ſhall be given them.</p>
                <p>AN account ſhall be made out each month of the bread that ſhall have been delivered to the priſoners on each ſide, in order that what ſhall appear due on either part, may be reimburſed without difficulty, at the rate of two kreutzers, and one third of a kreutzer, each ration making one penny and one fiftieth of a penny Engliſh, or twenty three deniers and one third of a denier French.</p>
                <p>AN account ſhall alſo be made out at the end of each month, of the ſums furniſhed on each ſide,
-<pb n="14" facs="tcp:015353_0013_0F98D708C2E4AD48"/>
+<pb n="14" facs="unknown:015353_0013_0F98D708C2E4AD48"/>
 for the advance agreed on for the ſubſiſtence of each priſoner; and the ſaid ſums received on either part ſhall be paid as above; promiſing reciprocally to keep the priſoners in proper places with good ſtraw, and to let then have freſh every week.</p>
             </div>
             <div n="26" type="article">
@@ -569,7 +570,7 @@ for the advance agreed on for the ſubſiſtence of each priſoner; and the ſai
                <p>IT ſhall be the ſame with regard to Commiſſa<g ref="char:EOLhyphen"/>ries, Chaplains, Phyſicians, Surgeons, Apothe<g ref="char:EOLhyphen"/>caries, men ſervants attending the hoſpitals, wo<g ref="char:EOLhyphen"/>men ſervants or other neceſſary perſons for the ſick, who cannot be deemed priſoners, and ſhall likewiſe be ſent back.</p>
             </div>
             <div n="28" type="article">
-               <pb n="15" facs="tcp:015353_0014_0F98D709823B78E0"/>
+               <pb n="15" facs="unknown:015353_0014_0F98D709823B78E0"/>
                <head>ART. XXVIII.</head>
                <p>THE ſafeguards ſhall enjoy on both ſides a per<g ref="char:EOLhyphen"/>fect ſecurity, and in caſe they ſhall be found too near the armies, they ſhall be ſent back, without receiving the leaſt violence or ill treatment.</p>
             </div>
@@ -592,7 +593,7 @@ for the advance agreed on for the ſubſiſtence of each priſoner; and the ſai
             <div n="33" type="article">
                <head>ART. XXXIII.</head>
                <p>AND for the full and entire execution of the preſent cartel, We have ſigned it, and have put thereto the ſeals of our arms, ſo that it ſhall be of full force to be inviolably obſerved, as if it had
-<pb n="16" facs="tcp:015353_0015_0F98D70A42254548"/>
+<pb n="16" facs="unknown:015353_0015_0F98D70A42254548"/>
 been ſigned by their Majeſties Our Sovereigns; and for farther aſſurance of the ſame, having ob<g ref="char:EOLhyphen"/>tained powers from their Majeſties for that pur<g ref="char:EOLhyphen"/>poſe, We declare that it ſhall even be ratified by them if thought neceſſary at the firſt requiſition made by either of their Majeſties.</p>
                <p>DONE at Sluys in Flanders, the Sixth of Febru<g ref="char:EOLhyphen"/>ary, One Thouſand, Seven Hundred, Fifty-nine.</p>
                <closer>
